@@ -255,6 +255,8 @@ ul, ol { margin: 0; padding: 0; }
 }
 .modal__box h3 { font-size: 1.5rem; }
 .modal__box #modal-body p { color: #34434f; }
+.modal__box #modal-body ul { padding-left: 1.3em; margin: 0 0 1em; color: #34434f; }
+.modal__box #modal-body li { margin-bottom: .4em; }
 .modal__box .btn { margin-top: 8px; }
 .modal__close { position: absolute; top: 14px; right: 16px; width: 40px; height: 40px; border: 0; border-radius: 50%; background: var(--sky-100); font-size: 1.6rem; line-height: 1; color: var(--navy-800); cursor: pointer; }
 .modal__close:hover { background: var(--line); }

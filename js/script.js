@@ -4,7 +4,7 @@
 
   document.documentElement.classList.add('js');
 
-  var WHATS = '559392029989';
+  var WHATS = '5593991227736';
   var $ = function (s, ctx) { return (ctx || document).querySelector(s); };
   var $$ = function (s, ctx) { return Array.prototype.slice.call((ctx || document).querySelectorAll(s)); };
 
